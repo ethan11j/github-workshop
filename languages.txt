@@ -3,6 +3,7 @@
 2. JavaScript - Powers the web
 3. Java - Enterprise ready
 4. C++ - Performance matters
-## Language Details
-Python: Great for data science and automation
-JavaScript: Essential for web development
+
+## Learning Resources
+- Codeacademy
+- freeCodeCamp
